@@ -21,8 +21,7 @@ Aqui estão as principais ferramentas e linguagens que utilizo ou estou estudand
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=**davi-craveiroS**&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**davi-craveiroS**&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-craveiroS&show_icons=true&theme=radical" />
 </div>
 
 ---
@@ -30,3 +29,10 @@ Aqui estão as principais ferramentas e linguagens que utilizo ou estou estudand
 ## 📫 Contato
 
 Você pode me encontrar por aqui:
+
+- ✉️ [Email](davicraveiros45@gmail.com)
+
+
+---
+
+🛠️ *Em constante evolução. Projetos em breve!*
